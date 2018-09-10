@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/campus_recruitment.iml" filepath="$PROJECT_DIR$/campus_recruitment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding_company/coding_company.iml" filepath="$PROJECT_DIR$/coding_company/coding_company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding_demo/coding_demo.iml" filepath="$PROJECT_DIR$/coding_demo/coding_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding_interviews/coding_interviews.iml" filepath="$PROJECT_DIR$/coding_interviews/coding_interviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_features/java_features.iml" filepath="$PROJECT_DIR$/java_features/java_features.iml" />
+    </modules>
+  </component>
+</project>
