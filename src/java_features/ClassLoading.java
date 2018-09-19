@@ -1,3 +1,5 @@
+package java_features;
+
 public class ClassLoading {
     public static int k = 0;
     public static ClassLoading t1 = new ClassLoading("t1");

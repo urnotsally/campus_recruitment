@@ -1,3 +1,5 @@
+package coding_company;
+
 import java.util.Scanner;
 
 public class JD_Unlattices {

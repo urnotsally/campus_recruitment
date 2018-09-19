@@ -1,3 +1,5 @@
+package coding_demo;
+
 import java.util.Scanner;
 
 public class Main2 {
